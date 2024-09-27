@@ -1,0 +1,8 @@
+ms\user\yinn\servicio\EstudianteService.class
+ms\user\yinn\servicio\EstudianteServiceImpl\EstudianteServiceImpl.class
+ms\user\yinn\entidad\Estudiante.class
+ms\user\yinn\MsUserYinnApplication.class
+ms\user\yinn\controlador\EstudianteController.class
+ms\user\yinn\Dto\EstudianteDTO.class
+ms\user\yinn\entidad\ListaValor.class
+ms\user\yinn\repositorio\EstudianteRepository.class
