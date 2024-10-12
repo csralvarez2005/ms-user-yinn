@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="financiero@192.168.10.98" uuid="b2ee090e-4850-4b71-a5c5-cfb5b8387734">
+    <data-source source="LOCAL" name="financiero@192.168.10.98" uuid="e9656683-34b8-4ab6-8048-41e4ffd631b9">
       <driver-ref>sqlserver.ms</driver-ref>
       <synchronize>true</synchronize>
       <imported>true</imported>
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
-      <jdbc-url>jdbc:sqlserver://192.168.10.98:1433;databaseName=financiero</jdbc-url>
+      <jdbc-url>jdbc:sqlserver://192.168.10.98:1433;databaseName=financiero;trustServerCertificate=true</jdbc-url>
       <jdbc-additional-properties>
         <property name="com.intellij.clouds.kubernetes.db.host.port" />
         <property name="com.intellij.clouds.kubernetes.db.enabled" value="false" />
